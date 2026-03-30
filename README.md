@@ -1,2 +1,4 @@
-# Enterprise-grade-SIEM-for-Linux-log
-Enterprise-grade SIEM for Linux log analysis with real-time monitoring and visualization"
+# Linux Log SIEM & Automation Platform 🔍
+
+A comprehensive Security Information and Event Management (SIEM) system for Linux log analysis with real-time monitoring, alerting, and visualization capabilities.
+
